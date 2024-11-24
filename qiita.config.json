@@ -1,0 +1,5 @@
+{
+  "host": "localhost",
+  "includePrivate": false,
+  "port": 8888
+}

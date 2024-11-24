@@ -1,0 +1,12 @@
+{
+    "rules": {
+        "preset-ja-spacing": {
+            "ja-space-around-code": {
+                "after": true,
+                "before": true
+            }
+        },
+        "preset-ja-technical-writing": true,
+        "preset-jtf-style": true
+    }
+}
